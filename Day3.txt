@@ -1,0 +1,96 @@
+3.7 Exercises pg. 96.                        Oct 11th, 2018
+
+Dylan Rampersad
+
+
+1.
+  Concept: A turn-based RPG with elements of magic and combat. (For mobile/handheld consoles)
+
+ -A medieval fanstasy world where you play as Danvor. A warrior/mage class character with a quiet personality.
+  When you start the game you're introduced to Danrim practicing magic with his mother aiding him. His father
+  who works for king's millitary has been called to arms due to the kingdom being in the midst of a revolution 
+  because the people were not pleased with how their kind was running the country. His mother had to go with his
+  father because the king her presences because of her strong magical power. Thinking Danvor is old enough to
+  take care of himself while they are gone, they leave him to himself to fight in the war. Danvor -now angry at
+  his parents- leave in search of them after a week. He has to fight his was through various creatures and 
+  animals. When he finally gets to the castle, he fights his was through the guards that think he's a revolutionary
+  and finds that the king is holding his parents as prisoners because they uncovered a dark secret about the
+  king. Danvor has to fight the king in order to save his parents and in doing so, stops the revolution and the 
+  new king offers Danvor a job as the leader of the royal guard.
+
+  Concept: Realtime RPG fantasy game.
+
+ -A medieval world in the middle of a revolution you play as a character who practices magic and fighting along
+  with hunting and crafting. You can explore the world and all it has to offer (Dungeons, monsters, resorces and
+  upgrading). He first fights his was to the leader of the revolution who turns out to be a woman he had saved 
+  before. Being in dept to you she offers her aid and resources. Through her you aquire targets whom are of
+  importance to the royal family. But the people on the list your character are truely after are secretly 
+  part of a group seperate from the rebellion and the royals. These people use both sides of the revolution to 
+  further their own goal which is to control the world through political power. One by one you fight through the
+  group's members finding that your own parents are members. Choosing to kill the mother will result in the father
+  coming after you ultimately catching you off guard. Sparing the mother will result in her seeing her mistakes
+  and she joins your side to help kill the father. Sparing the father will result in the father taking control of
+  the group as their leader later on in the story. Killing the father will result in revealing to you that the 
+  group youre fighting against is the king himself. His plan is to make the relolution last until it spread across 
+  the nation. From there he plans to unleash 4 dragons that are under his control in order to kill off the
+  revolutionaries and gain control over the whole nation. If you decide to kill both parents, your character's morals
+  get twisted and he steals the king's idea to take over the nation and succeeds. If you spare both parents then
+  the nation is revealed the truth about the former king and the new king offers your character a job as head of
+  royal guard. If you spared one parent and killed the other, the ending is narrorated by the parent that lives
+  revealing to the player that they are attempting to rebuild the group that you had defeated.
+
+a. I noticed that once I started the story that I had a lot of ideas but couldn't implement them into the story
+   because it didn't fit the narretive or didn't make sense to previous statments I had already written.
+
+b. I had to think about a lot of factors when writing both the linear and non-linear storylines. With the linear
+   story I had to make a simple yet interesting storyline that the player could be invested in and not get lost
+   in the story. With the non-linear storyline I had to change a lot. Firstly, I got rid of the main character
+   having a name to open character customization. After that I had to create a longer story to introduce more 
+   content like crafting, upgrading and a leveling system. After that I implemented a moral system for replayability.
+   I changed the concept from turn-based to realtime in order to give a more emersed expirience to the game.
+
+2.
+
+a. -For the first game I chose a turn based game to add potential for strategic combos and moves to a fight.
+   -Hunting animals and looting corpes for food, potions and gear.
+   -Food, healing spells and health postions restore player health
+   -Gear and weapons have different stats and abilities. (e.g. A sword with the ability of shooting fire)
+   -Enemies get harder to fight the further you progress in story and in level.
+   -Different enemies have special abilities spacifically for them. (e.g. Fire cannot harm a water fairy)
+   -Shell Menu has options for sound, display, subtitles, start game, view map, ect.
+
+   -For the second game I made it a realtime 3rd person game to emerse the player more into the world.
+   -I decided not to give the character a name to open character customization options.
+   -Hunting for food, crafting or looting potions and healing spells restore health.
+   -Craft, loot or complete quests for gear and weapons
+   -Enemies have different special abilities depending on their level.
+   -I used the story from the first game to inspire the second but I expanded it into a much bigger one.
+   -Shell menu is user friendly.
+
+b. -For the first game I chose turn-based RPG with elements of magic within the story and gameplay.
+   -For the second game I chose a realtime RPG with both elements of magic in the story and gameplay and 
+    consiquences for choices the player makes.
+
+
+3. 
+   For the core mechanics I would have to create entities such as the different spells and what they look
+   like when being used, the enemies, animals and allies.
+   For the second game I would have to create a lot of entities. Magical spells, enemies, allies, arrows,
+   civilians, ect.
+
+
+4.
+   The level will consist of the player in a forest having to fight through a handfull of enemies. There
+   will be traps that you'll have to deactivate with either a magical spell or a bow and arrow. There are
+   areas to climb like the trees and various rock formations for a more stealth approch. the player follows
+   a path from where the spawn in and continue until they reach a treasure chest. Enemies spawn around the
+   chest and the player has to fight through the enemies in order to get the gear that's in the chest. 
+   From there the player follows another path laid out after the fight leading to a small mini-boss.
+   The player has to fight the mini-boss. 
+
+   I created the layout because it shows off a lot of what the game has to offer. options for stealth, 
+   magic and combat. Adding a path to follow makes it so the player doesn't get lost finding where to go.
+   The treasure chest adds a sense of needing to be rewarded. (Extra encuragement to beat all the enemies
+   in the room). I the chest is a piece of armor that helps with the later mini-boss. I chose to add the 
+   mini-boss because it creates an opertunity for the player to really see what the character can do and
+   how he/she fights when presented a challenge.
