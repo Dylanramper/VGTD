@@ -1,3 +1,78 @@
 Exercises 6.3 Pg. 158                            Oct 15th 2018
 
+Dylan Rampersad
+
+
+
+
 2.
+  a. -Catalyst Wars
+     -The game doesn't sound like it needs a singleplayer mode. (Would get boring)
+     -Overall concept is boring
+     -Unoriginality
+     -No key features are emphesized
+     -No table of contents
+     -No control layout
+     -No initial budget
+     -The production time say they plan to have framework implemented by 1998, but the document is dated for 2007.
+     -Ideas use a lot of outdated ideas and methods. (using emails and LAN files to play with friends)
+     -Story does not provide a lot of background information
+
+If the game had ran on a better engine, they could have taken out the singleplayer feature and added the scenario
+mode as a seperate gamemode on the title screen. Having it run on a better engine would remove the need to access
+matches via email or LAN. It would also cut the wait time of a match so you wouldn't have to wait 5 minutes as is
+stated in the document.
+
+     -Flying
+     -Game's title was not was not displayed in the first page.
+     -Sloppy discriptions of story, history of the world and game's goal. (Painful to read)
+     -No table of contents
+     -List of characters are poorly iterated and too short.
+     -No current engine picked for the game.
+     -Overall boring concept for a game.
+     -No budget.
+     -No intended dates of production.
+
+Overhall the entire concept behind the game. Rewrite the document so that it's more professional and redo the
+concept of the story and expand. Also add a wider history as to why there are people with wings and why there 
+aren't and why the people with wings have to protect everything within the world. Add more of a backstory behind
+the world for example; maybe there's a war going on between a race of creatures that live on floating islands and
+the people that live on the surface. This game needs to go back to the drawing board.
+
+
+  b. -Claw
+     -Contains table of contents
+     -Shows system requirments
+     -Clearly explains the setup procedure
+     -Shows a table of the control schieme
+     -Step-by-step discription of how to set up, load and save a game.
+     -Has images as references for power ups and items.
+     -Shows updates made to the document as aposed to completely removing an idea
+
+This GDD is a good design because it has the table of contents, the controls, the setup process and images as 
+reference. This GDD knows it's target audience and does not stray away from it's genre too much. It stays true
+what it's goal is and it is easy to understand.
+
+     -DOOM
+     -Has a demo planned that is laydout.
+     -Clearly outlines the character and gives a brief description of them.
+     -Has laydout scripts for levels or "Episodes".
+     -Has plenty of crossover potential.
+     -Has descriptions of what each level will look like.
+     -Has pictures to provide along with description.
+     
+This game sounds like it has amazing potential. The person seems to have a steady plan and the ideas don't seem
+too far fetched.
+
+
+  c.Old docs vs. new docs
+
+What remains: They still include the controls just in a differen't layout. They have step-by-step
+              procedures on the controls and start up screens. They still have list of system 
+              requirements. 
+
+What doesn't: The older docs tend to describe more with coding. unlike today's GDDs, the old docs don't tend to
+     have a story outline either. The new docs are more organized and neat. They include target audience, world
+     history, character background and pictures as reference.The older Docs also use pens to fix mistakes or add
+     ideas to an existing doc and there is no table of contents in the old docs.
+
