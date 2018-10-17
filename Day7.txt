@@ -1,0 +1,104 @@
+7.4 Exercises pg. 189 Questions 1. 3. 4 (a).  October 17 2018.
+
+Dylan Rampersad
+
+1.
+   In order to make the TDD for Zombies vs. Necrophiliacs more readable to a 
+   newcomer of the project, the could add a little more explanation for the 
+   STLs and CVS's and why the CVS's should be prioritized. They could also
+   add aditional notes to help guid the newcomer to what they will want them 
+   to focus on. They also could have added information on the shell menes.
+
+3.
+   UML use case diagram
+ Starting Screen:
+   New game:
+            -Start new file
+   Load game: 
+            -Choose existing file
+            -Delete file
+   Options:
+            -Audio
+                 -Volume
+                       -Master
+                       -Dialog 
+                       -Music
+                       -SFX
+            -Display
+                 -Subtitles
+                 -Blood
+                 -Resolution
+                 -Full Screen
+                 -Effects Quality
+                 -Texture Quality
+            
+             -HUD
+                 -Map
+                 -Control Display
+                 -Health Display
+                 -Weapons Display
+                 -Name Display
+                 -Display Stats
+
+   Quit Game:
+             -Close game
+                
+
+ Main Gameplay Window:
+   Inventory:
+             -Items
+                  -use item 
+                  -Discard item
+                  -Equip Item
+             -Mounts
+                  -Equip Mount
+                  -Unequip Mount
+   Options:
+            -Audio
+                 -Volume
+                       -Master
+                       -Dialog 
+                       -Music
+                       -SFX
+            -Display
+                 -Subtitles
+                 -Blood
+                 -Resolution
+                 -Full Screen
+                 -Effects Quality
+                 -Texture Quality
+            
+             -HUD
+                 -Map
+                 -Control Display
+                 -Health Display
+                 -Weapons Display
+                 -Name Display
+                 -Display Stats
+             
+             -Save game
+                 -Overwrite exisiting file
+                 -Create new file
+
+             -Quit Game
+
+   End screen:
+       
+             -Skip Credits
+                  -Main menu
+ 
+             -Quit Game
+
+
+4.
+ a. The first UML diagram shows different parts of a weapon and how they work.
+    The second UML diagram shows how the playe will interact with a selection
+    screen. The player selects an existing character or chreate a name for their
+    character and then starting the game.
+             
+                
+  
+
+   
+     
+  
