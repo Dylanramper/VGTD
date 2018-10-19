@@ -1,0 +1,10 @@
+8.4 Exersices pg. 206                            Oct 19th, 2018
+
+Dylan Rampersad.
+
+3. (Or 2...The textbook doesn't really show a quiestion 2)
+
+   I would likely choose the waterfall model because since I would be working on a simple 2D mobile game the
+   waterfall model seems to be everything you would need for it. It's simple enough for the whole team to 
+   understand and the game itself would benefit in crunch time since we wont be taking up too much time 
+   trying to hard to plan out the entire model.
