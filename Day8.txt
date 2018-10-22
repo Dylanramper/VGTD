@@ -1,0 +1,93 @@
+9.4 Exercises p.g. 228.                            Oct 22nd, 2018
+
+Dylan Rampersad
+
+1.
+   The process I should take to creating a mobile game is separated into steps.
+
+   Step 1 is to work around an idea I have. 
+   An idea to create a mobile game is hard at first but if I brainsorm ideas and look to other mobile games for 
+   inpiration it could be very helpful in creating a successful game. I could look at games like Assassin's creed 
+   Rebellion, Flappy bird or Geometry Dash for ideas on how to write up the gameplay, asthetics and story.
+
+   Step 2 is to tell a story
+   Telling a story can be long and complicated but for a mobile game I may wanna consider making it something 
+   simple by using a format.
+   For Example:
+   -How to win?
+   -who is the hero and villain?
+   -Why do the hero and villain fight?
+   -What kind of strengths and weaknesses will be crucial?
+
+   Step 3 is to create a sense of acomplishment sothat the player will want to play more.
+   Creating a mechanic that gives the player a sense of acomplishment can be hard at first. But once you come up
+   with one thing you'll start to think; "about what else can you reward the player with for doing various tasks?"
+   I can make it simple and give them in-game currency or I can add different types of recourses, new gear, unlocked
+   levels and much more depending on how many tasks they would have to acomplish. 
+  
+   Step 4 is to choose a platform.
+   This step isn't as hard as the other steps commonly mobile games are made for mostly Andriod and iOS. So it would
+   be beneficial to create a vision for both and not make a version for Windows or BlackBerry.
+
+   Step 5 is to create an athetic.
+   Creating an asthetic might be one of the longest processes to making a game. Once you have an art style down on
+   how the game will visiually look, it is a good idea to stick to that for other parts of the game.
+
+   Step 6 is financing. 
+   Finding out how much the game will cost to make, publish and distribute via Apple store and Play store.
+
+   Step 7 is playtesting.
+   Okay. So you've made the game, created a sense of accomplishment, created the asthetic design and finished all
+   the coding. But before you distribute the product you should playtest and see what problems you may have. If there
+   are some problems with the game you can fix it by going backa few steps and playtesting again. Continue this until
+   you are fully confident that the game is ready. A good way to asure this is to get other people to playtest the 
+   game for you and recieve their feedback.
+
+I got help on the different steps from this source:
+https://www.newgenapps.com/blog/steps-successful-mobile-game-development
+
+
+3.
+  a. Tour of Duty being transferred from Spark Entertainment to Activision.
+
+  b. The major components of the relationship between the game studio and activion are that the studio will and is 
+     willing to create 3 distinct products for Activision and Activision will play and provide them with the equipment,
+     software and other finiancial needs for the product. Activision will also promote the developer as a "creative
+     talent in the field".
+     The entire development team would need to be aware of the Development team updates, Developer's responsibilities,
+     development team & updates, the milestone schedule, the TDDs and the "Do's and Don'ts" for the team.
+
+  c. Each party must be aware that they are not allowed to reveal confidential information. If a one of the two
+     parties decide not to continue with the project, they have to give up all confidential information to the 
+     other party.
+     In the NDA2 it says that the disclosee will try their best to keep any information given to him/her
+     confidential. Nothing in the agreement allows any information to be transferred to the diclosee. They
+     are allowed to state that there is a game coming out and that they were a beta tester for said game.
+     The disclosee is not allowed to state how many people are working on the game, details on stability of
+     the game, appearance & gameplay and the game's development. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
