@@ -1,0 +1,25 @@
+10.5 Exercises pg. 251. Questions 1-2                October 25th
+
+Dylan Rampersad
+
+1.
+  a.
+    There is a low risk that this will slow the development time because it is
+    unlikely that the new version of the OS will get in the way of players being
+    able to play the game.
+ 
+  b.
+    An artist leaving the team after 2 months is a low risk because, as stated, 
+    they had done half of the animations and artwork. There would be enough time
+    to look for a new artist to pick up where the previous one left off.
+
+  c.
+    This is a high risk to the project. If none of the programmers show up in over
+    a week, the entire production stops. Extending the schedule and contacting everyone
+    to work might improve the production. If no one shows up then the game will be 
+    doomed. (No pun intended)
+
+2.
+    Post-Mortem
+    Look to David Langen's Submition as I was in a group with him for quiestion 2.
+    
